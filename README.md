@@ -14,3 +14,4 @@ Insurance Project!
 This a data analysis project focused on determining the ideal timing and content for advertising in Ecuador (Insurance industry), related to car crashes. By searching data and analyzing historical data, we aim to help marketing agencies and insurance companies optimize their ad campaigns, saving costs and improving effectiveness. This project is crucial for enhancing advertising strategies in the Ecuadorian market, providing valuable insights for a more targeted and efficient approach
 
 Tech use: Python
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
